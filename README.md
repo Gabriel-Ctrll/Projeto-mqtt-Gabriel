@@ -35,3 +35,5 @@ Jumpers
 ## Circuito
 
 ![Circuito](https://github.com/Gabriel-Ctrll/Projeto-mqtt-Gabriel/blob/main/Circuito.PNG)
+
+Autor: Gabriel Araujo
