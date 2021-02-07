@@ -15,3 +15,13 @@ Foram utilizado as seguintes bibliotecas:
 [UIPEthernet](https://www.arduinolibraries.info/libraries/uip-ethernet)(conexão do ENC28J60 com o Arduino)
 
 [PubSubClient](https://pubsubclient.knolleary.net/)(cliente MQTT para o Arduino)
+
+<p>
+
+## Materiais
+
+</p>
+Arduino Uno
+Módulo Ethernet (ENC28J60)
+Sensor Magnético (MC-38)
+Jumpers
