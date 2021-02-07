@@ -29,3 +29,9 @@ Módulo Ethernet (ENC28J60)
 Sensor Magnético (MC-38)
 
 Jumpers
+
+<p>
+
+## Circuito
+
+![Circuito](https://github.com/Gabriel-Ctrll/Projeto-mqtt-Gabriel/blob/main/Circuito.PNG)
