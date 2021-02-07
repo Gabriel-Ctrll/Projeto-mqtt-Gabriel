@@ -22,6 +22,9 @@ Foram utilizado as seguintes bibliotecas:
 
 </p>
 Arduino Uno
+
 Módulo Ethernet (ENC28J60)
+
 Sensor Magnético (MC-38)
+
 Jumpers
